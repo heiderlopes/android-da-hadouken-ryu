@@ -1,0 +1,77 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@drawable/ryu_00"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_01"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/ryu_02"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/ryu_03"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/ryu_04"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_05"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_06"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_07"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_08"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_09"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_10"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_11"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_12"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_13"
+        android:duration="100" />
+    <item
+        android:drawable="@drawable/ryu_14"
+        android:duration="100" />
+
+    <item
+        android:drawable="@drawable/ryu_15"
+        android:duration="100"/>
+
+    <item
+        android:drawable="@drawable/ryu_16"
+        android:duration="100"/>
+
+    <item
+        android:drawable="@drawable/ryu_17"
+        android:duration="100"/>
+
+    <item
+        android:drawable="@drawable/ryu_18"
+        android:duration="100"/>
+
+    <item
+        android:drawable="@drawable/ryu_19"
+        android:duration="100"/>
+
+    <item
+        android:drawable="@drawable/ryu_00"
+        android:duration="100"/>
+
+</animation-list>
